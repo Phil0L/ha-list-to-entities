@@ -1,10 +1,10 @@
 {
   "domain": "list_to_entities",
-  "name": "Todolist to entities",
+  "name": "To-do Entities",
   "codeowners": ["@Phil0L"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://www.home-assistant.io/integrations/list_to_entities",
+  "documentation": "https://github.com/Phil0L/ha-list-to-entities",
   "homekit": {},
   "integration_type": "service",
   "iot_class": "calculated",

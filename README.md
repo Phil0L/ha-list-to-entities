@@ -27,12 +27,12 @@ This is very useful for dashboard cards like [Lovelace-auto-entities](https://gi
 
 3. **Install the Integration**:
    - Go to **HACS** → **Integrations**
-   - Search for "Todolist to entities"
+   - Search for "To-do Entities"
    - Click **Download** and restart Home Assistant when prompted
 
 4. **Configure the Integration**:
    - Go to **Settings** → **Devices & services** → **Add Integration**
-   - Search for "Todolist to entities" and select it
+   - Search for "To-do Entities" and select it
    - Follow the configuration steps below
 
 ### Method 2: Manual Installation
@@ -57,7 +57,7 @@ This is very useful for dashboard cards like [Lovelace-auto-entities](https://gi
 
 1. **Add the Integration**:
    - Go to **Settings** → **Devices & services** → **Add Integration**
-   - Search for "Todolist to entities" and click it
+   - Search for "To-do Entities" and click it
 
 2. **Configure Todolist**:
    - **Todolist**: Select the todolist you want to create entities for
